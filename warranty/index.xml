@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Warranty on Westbound Studio</title>
+    <link>http://westbound.studio/warranty/</link>
+    <description>Recent content in Warranty on Westbound Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2019 20:56:42 +0600</lastBuildDate>
+    <atom:link href="http://westbound.studio/warranty/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
