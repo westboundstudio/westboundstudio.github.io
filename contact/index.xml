@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Westbound Studio</title>
-    <link>https://westboundstudio.github.io/contact/</link>
+    <link>https://westbound.studio/contact/</link>
     <description>Recent content in Contact on Westbound Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate>
-    <atom:link href="https://westboundstudio.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://westbound.studio/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

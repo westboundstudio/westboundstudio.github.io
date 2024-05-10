@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Process on Westbound Studio</title>
-    <link>https://westboundstudio.github.io/process/</link>
+    <link>https://westbound.studio/process/</link>
     <description>Recent content in Process on Westbound Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2019 20:56:42 +0600</lastBuildDate>
-    <atom:link href="https://westboundstudio.github.io/process/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://westbound.studio/process/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
